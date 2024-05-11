@@ -7,9 +7,8 @@ import Sidebar from '@/components/shared/Sidebar'
 const Home = () => {
   return (
     <div>
-      <Sidebar />
-      <p>Home</p>
-      <UserButton afterSignOutUrl='/'/>
+      {/* <p>Home</p>
+      <UserButton afterSignOutUrl='/'/> */}
     </div>
   )
 }
